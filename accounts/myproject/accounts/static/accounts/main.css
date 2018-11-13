@@ -1,0 +1,13 @@
+
+
+body{
+    background-image: url("Yellow.jpg");
+    background-repeat: no-repeat;
+    background-size: cover
+   
+}
+body *{
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 40px;
+}
